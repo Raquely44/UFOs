@@ -1,4 +1,5 @@
 # UFO Sightings Webpage
+<img src="Resources/UFO.png">
 
 ## Overview of the analysis:
 The purpose is well defined (2 pt)
