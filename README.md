@@ -7,7 +7,7 @@ The purpose of this webpage is to display the data set of UFO sightings in the f
 
 ## Results:
 
-To the left of the table is a filter search box. There you can enter a date, city, state, country, or shape and the table will update when a character is entered. Below are two examples of how searched for El Cajon, CA and KY are displayed.
+To the left of the table is a filter search box. There you can enter a date, city, state, country, or shape and the table will update when a character is present and enter is pressed. Below are two examples of how searched for El Cajon, CA and KY are displayed.
 
 <img src="Resources/ca_elcajon_filter.png">
 <img src="Resources/ky_filter.png">
