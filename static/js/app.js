@@ -62,7 +62,7 @@ function updateFilters() {
     for (var key in userInput) {
       if (key =='datetime') {
         
-        filterData = filterdData.filter(row => row.datetime == userInput[key]);
+        filteredData = filteredData.filter(row => row.datetime == userInput[key]);
       }
       else if (key == 'city') {
         filteredData = filteredData.filter(row => row.city == userInput[key]); 
